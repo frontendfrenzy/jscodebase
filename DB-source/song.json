@@ -1,0 +1,403 @@
+{
+    "songs": [
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Divide)",
+        "release_date": "2017-01-06",
+        "genre": "Pop",
+        "duration": "3:53",
+        "record_label": "Asylum, Atlantic",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
+          "youtube": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+        }
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "After Hours",
+        "release_date": "2019-11-29",
+        "genre": "Synth-pop",
+        "duration": "3:22",
+        "record_label": "XO, Republic",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+          "youtube": "https://www.youtube.com/watch?v=fHI8X4OXluQ"
+        }
+      },
+      {
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "album": "21",
+        "release_date": "2011-01-24",
+        "genre": "Soul, Pop",
+        "duration": "4:45",
+        "record_label": "XL, Columbia",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
+          "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+        }
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "album": "21",
+        "release_date": "2010-11-29",
+        "genre": "Soul, Blues",
+        "duration": "3:48",
+        "record_label": "XL, Columbia",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/1c9Sx7XdXuMptGyfCB6hHs",
+          "youtube": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
+        }
+      },
+      {
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "release_date": "2019-03-29",
+        "genre": "Electropop",
+        "duration": "3:14",
+        "record_label": "Darkroom, Interscope",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
+          "youtube": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
+        }
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "release_date": "1975-10-31",
+        "genre": "Rock",
+        "duration": "5:55",
+        "record_label": "EMI, Elektra",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J",
+          "youtube": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+        }
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson feat. Bruno Mars",
+        "album": "Uptown Special",
+        "release_date": "2014-11-10",
+        "genre": "Funk, Pop",
+        "duration": "4:30",
+        "record_label": "RCA",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+          "youtube": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+        }
+      },
+      {
+        "title": "Thinking Out Loud",
+        "artist": "Ed Sheeran",
+        "album": "x (Multiply)",
+        "release_date": "2014-06-23",
+        "genre": "Pop, Soul",
+        "duration": "4:41",
+        "record_label": "Asylum, Atlantic",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f",
+          "youtube": "https://www.youtube.com/watch?v=lp-EO5I60KA"
+        }
+      },
+      {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "album": "Let It Be",
+        "release_date": "1970-03-06",
+        "genre": "Rock",
+        "duration": "4:03",
+        "record_label": "Apple",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/2x2W54pEGWmHko0mvTnJdv",
+          "youtube": "https://www.youtube.com/watch?v=QDYfEBY9NM4"
+        }
+      },
+      {
+        "title": "Hello",
+        "artist": "Adele",
+        "album": "25",
+        "release_date": "2015-10-23",
+        "genre": "Soul, Pop",
+        "duration": "4:55",
+        "record_label": "XL, Columbia",
+        "streaming_links": {
+          "spotify": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y",
+          "youtube": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+        }
+      },
+      {
+        "songs": [
+          {
+            "title": "Stay",
+            "artist": "The Kid LAROI, Justin Bieber",
+            "album": "Stay (Single)",
+            "release_date": "2021-07-09",
+            "genre": "Pop",
+            "duration": "2:21",
+            "record_label": "Columbia",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG",
+              "youtube": "https://www.youtube.com/watch?v=kTJczUoc26U"
+            }
+          },
+          {
+            "title": "Levitating",
+            "artist": "Dua Lipa feat. DaBaby",
+            "album": "Future Nostalgia",
+            "release_date": "2020-10-01",
+            "genre": "Disco-pop",
+            "duration": "3:23",
+            "record_label": "Warner",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/463CkQjx2pdlZzLfn4xL6b",
+              "youtube": "https://www.youtube.com/watch?v=TUVcZfQe-Kw"
+            }
+          },
+          {
+            "title": "Happier",
+            "artist": "Marshmello feat. Bastille",
+            "album": "Happier (Single)",
+            "release_date": "2018-08-17",
+            "genre": "Dance-pop",
+            "duration": "3:34",
+            "record_label": "Astralwerks",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99",
+              "youtube": "https://www.youtube.com/watch?v=m7Bc3pLyij0"
+            }
+          },
+          {
+            "title": "All of Me",
+            "artist": "John Legend",
+            "album": "Love in the Future",
+            "release_date": "2013-08-12",
+            "genre": "R&B, Soul",
+            "duration": "4:29",
+            "record_label": "Columbia",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a",
+              "youtube": "https://www.youtube.com/watch?v=450p7goxZqg"
+            }
+          },
+          {
+            "title": "Drivers License",
+            "artist": "Olivia Rodrigo",
+            "album": "SOUR",
+            "release_date": "2021-01-08",
+            "genre": "Pop",
+            "duration": "4:02",
+            "record_label": "Geffen",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
+              "youtube": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
+            }
+          },
+          {
+            "title": "Sunflower",
+            "artist": "Post Malone, Swae Lee",
+            "album": "Spider-Man: Into the Spider-Verse",
+            "release_date": "2018-10-18",
+            "genre": "Hip hop, Pop",
+            "duration": "2:38",
+            "record_label": "Republic",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P",
+              "youtube": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+            }
+          },
+          {
+            "title": "Closer",
+            "artist": "The Chainsmokers feat. Halsey",
+            "album": "Collage",
+            "release_date": "2016-07-29",
+            "genre": "EDM, Pop",
+            "duration": "4:04",
+            "record_label": "Disruptor, Columbia",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
+              "youtube": "https://www.youtube.com/watch?v=PT2_F-1esPk"
+            }
+          },
+          {
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "album": "÷ (Divide)",
+            "release_date": "2017-03-03",
+            "genre": "Pop",
+            "duration": "4:23",
+            "record_label": "Asylum, Atlantic",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+              "youtube": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            }
+          },
+          {
+            "title": "Señorita",
+            "artist": "Shawn Mendes, Camila Cabello",
+            "album": "Señorita (Single)",
+            "release_date": "2019-06-21",
+            "genre": "Pop",
+            "duration": "3:10",
+            "record_label": "Island",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik",
+              "youtube": "https://www.youtube.com/watch?v=Pkh8UtuejGw"
+            }
+          },
+          {
+            "title": "Memories",
+            "artist": "Maroon 5",
+            "album": "Memories (Single)",
+            "release_date": "2019-09-20",
+            "genre": "Pop",
+            "duration": "3:09",
+            "record_label": "222, Interscope",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM",
+              "youtube": "https://www.youtube.com/watch?v=SlPhMPnQ58k"
+            }
+          }
+        ]
+      },
+      {
+        "songs": [
+          {
+            "title": "Faded",
+            "artist": "Alan Walker",
+            "album": "Different World",
+            "release_date": "2015-12-03",
+            "genre": "Electro, House",
+            "duration": "3:32",
+            "record_label": "MER Musikk",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos",
+              "youtube": "https://www.youtube.com/watch?v=60ItHLz5WEA"
+            }
+          },
+          {
+            "title": "Counting Stars",
+            "artist": "OneRepublic",
+            "album": "Native",
+            "release_date": "2013-06-14",
+            "genre": "Pop rock",
+            "duration": "4:17",
+            "record_label": "Mosley Music Group, Interscope",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1",
+              "youtube": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+            }
+          },
+          {
+            "title": "Believer",
+            "artist": "Imagine Dragons",
+            "album": "Evolve",
+            "release_date": "2017-02-01",
+            "genre": "Alternative rock",
+            "duration": "3:24",
+            "record_label": "Interscope, KIDinaKORNER",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6L5",
+              "youtube": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+            }
+          },
+          {
+            "title": "Shallow",
+            "artist": "Lady Gaga, Bradley Cooper",
+            "album": "A Star Is Born Soundtrack",
+            "release_date": "2018-10-05",
+            "genre": "Pop, Country",
+            "duration": "3:36",
+            "record_label": "Interscope",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B",
+              "youtube": "https://www.youtube.com/watch?v=bo_efYhYU2A"
+            }
+          },
+          {
+            "title": "Demons",
+            "artist": "Imagine Dragons",
+            "album": "Night Visions",
+            "release_date": "2013-01-28",
+            "genre": "Alternative rock",
+            "duration": "2:57",
+            "record_label": "Interscope, KIDinaKORNER",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a",
+              "youtube": "https://www.youtube.com/watch?v=mWRsgZuwf_8"
+            }
+          },
+          {
+            "title": "Wake Me Up",
+            "artist": "Avicii",
+            "album": "True",
+            "release_date": "2013-06-17",
+            "genre": "Dance, EDM",
+            "duration": "4:07",
+            "record_label": "PRMD, Island",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv",
+              "youtube": "https://www.youtube.com/watch?v=IcrbM1l_BoI"
+            }
+          },
+          {
+            "title": "Dance Monkey",
+            "artist": "Tones and I",
+            "album": "The Kids Are Coming",
+            "release_date": "2019-05-10",
+            "genre": "Alternative, Indie",
+            "duration": "3:29",
+            "record_label": "Bad Batch, Elektra",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K",
+              "youtube": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
+            }
+          },
+          {
+            "title": "Take Me to Church",
+            "artist": "Hozier",
+            "album": "Hozier",
+            "release_date": "2013-09-13",
+            "genre": "Indie rock, Soul",
+            "duration": "4:02",
+            "record_label": "Rubyworks, Island, Columbia",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/1gYek2kMVhWh2NAJ6kjIXx",
+              "youtube": "https://www.youtube.com/watch?v=PVjiKRfKpPI"
+            }
+          },
+          {
+            "title": "Cheap Thrills",
+            "artist": "Sia",
+            "album": "This Is Acting",
+            "release_date": "2016-02-11",
+            "genre": "Electropop",
+            "duration": "3:31",
+            "record_label": "Inertia, Monkey Puzzle, RCA",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/31qgU3MZHvDnQ4Fg0CbVqi",
+              "youtube": "https://www.youtube.com/watch?v=nYh-n7EOtMA"
+            }
+          },
+          {
+            "title": "We Don't Talk Anymore",
+            "artist": "Charlie Puth feat. Selena Gomez",
+            "album": "Nine Track Mind",
+            "release_date": "2016-05-24",
+            "genre": "Pop",
+            "duration": "3:37",
+            "record_label": "Artist Partner Group",
+            "streaming_links": {
+              "spotify": "https://open.spotify.com/track/3AtDnECaBtL9FOXSkYamu6",
+              "youtube": "https://www.youtube.com/watch?v=3AtDnECaBtL"
+            }
+          }
+        ]
+      }            
+    ]
+  }
+  
